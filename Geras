@@ -1,0 +1,8 @@
+#EXTINF:-1,Viasat History
+https://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,KIDS Disney_XD
+https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1,Viasat History RU
+https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",X Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
