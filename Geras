@@ -6,3 +6,6 @@ https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",X Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:0 tvg-id="lnk-lt" group-title="LT TV",01 LNK LT
+http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
